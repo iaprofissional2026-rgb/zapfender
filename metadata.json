@@ -1,0 +1,6 @@
+{
+  "name": "ZapSender Pro - Disparador WhatsApp",
+  "description": "Sistema completo de disparos em massa e agendamento automático para WhatsApp via QR Code com anti-bloqueio e personalização.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
